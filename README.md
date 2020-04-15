@@ -1,4 +1,4 @@
-![repository-banner.png](https://s3-eu-west-1.amazonaws.com/asaburido/as-readme-banner.png)
+![repository-banner.png](https://res.cloudinary.com/alvarosaburido/image/upload/v1564929632/as-readme-banner_tqdgrx.png)
 
 # YunSensorMote 
 
